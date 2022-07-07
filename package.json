@@ -8,7 +8,7 @@
     "braintree-dropin-react": "^0.1.1",
     "braintree-web-drop-in": "^1.19.0",
     "devise-axios": "^1.0.24",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-calendar": "^2.19.0",
